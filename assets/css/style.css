@@ -5,40 +5,39 @@
 }
 
 @font-face {
-  font-family: Nooks-Bold;
-  src: url(fonts/TT-Nooks-Script-Trial-Bold.otf);
+  font-family: "Nooks-Bold";
+  src: url("../fonts/TT Nooks Trial Bold.otf");
 }
 
 @font-face {
-  font-family: Nooks-Regular;
-  src: url("assets/fonts/TT Nooks Script Trial Regular.otf");
+  font-family: "Nooks-Regular";
+  src: url("../fonts/TT Nooks Script Trial Regular.otf");
 }
 
 @font-face {
-  font-family: Gilroy-Regular;
-  src: url("assets/fonts/Gilroy-Medium.ttf");
+  font-family: "Gilroy-Regular";
+  src: url("../fonts/Gilroy-Medium.ttf");
 }
 
 @font-face {
-  font-family: Gilroy-Bold;
-  src: url("assets/fonts/Gilroy-Bold.ttf");
+  font-family: "Gilroy-Bold";
+  src: url("../fonts/Gilroy-Bold.ttf");
 }
 
 h1 {
-  font-family: Nooks-Bold, sans-serif;
+  font-family: "Nooks-Bold", sans-serif;
 }
 
 h2 {
-  font-family: Nooks-Regular, sans-serif;
+  font-family: "Nooks-Regular", sans-serif;
 }
 
 p {
-  font-family: Gilroy-Regular, sans-serif;
-  font-weight: 400;
+  font-family: "Gilroy-Regular", sans-serif;
 }
 
 button {
-  font-family: Gilroy-Bold, sans-serif;
+  font-family: "Gilroy-Bold", sans-serif;
 }
 
 ::-webkit-scrollbar {
