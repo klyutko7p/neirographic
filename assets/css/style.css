@@ -36,10 +36,6 @@ p {
   font-family: "Gilroy-Regular", sans-serif;
 }
 
-button {
-  font-family: "Gilroy-Bold", sans-serif;
-}
-
 ::-webkit-scrollbar {
   width: 20px;
 }
