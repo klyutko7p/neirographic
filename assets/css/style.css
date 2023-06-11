@@ -6,22 +6,22 @@
 
 @font-face {
   font-family: Nooks-Bold;
-  src: url("/assets/fonts/TT-Nooks Script-Trial-Bold.otf");
+  src: url("assets/fonts/TT-Nooks Script-Trial-Bold.otf");
 }
 
 @font-face {
   font-family: Nooks-Regular;
-  src: url("/assets/fonts/TT Nooks Script Trial Regular.otf");
+  src: url("assets/fonts/TT Nooks Script Trial Regular.otf");
 }
 
 @font-face {
   font-family: Gilroy-Regular;
-  src: url("/assets/fonts/Gilroy-Medium.ttf");
+  src: url("assets/fonts/Gilroy-Medium.ttf");
 }
 
 @font-face {
   font-family: Gilroy-Bold;
-  src: url("/assets/fonts/Gilroy-Bold.ttf");
+  src: url("assets/fonts/Gilroy-Bold.ttf");
 }
 
 h1 {
