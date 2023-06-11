@@ -6,6 +6,11 @@
 
 @font-face {
   font-family: "Nooks-Bold";
+  src: url("../fonts/TT Nooks Trial Black.otf");
+}
+
+@font-face {
+  font-family: "Nooks-Black";
   src: url("../fonts/TT Nooks Trial Bold.otf");
 }
 
@@ -34,6 +39,7 @@ h2 {
 
 p {
   font-family: "Gilroy-Regular", sans-serif;
+  line-height: 19.2px;
 }
 
 ::-webkit-scrollbar {
