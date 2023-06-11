@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: Nooks-Bold;
-  src: url("/assets/fonts/TT-Nooks Script-Trial-Bold.otf");
+  src: url(fonts/TT-Nooks-Script-Trial-Bold.otf);
 }
 
 @font-face {
@@ -62,8 +62,4 @@ button {
 
 html {
   scroll-behavior: smooth;
-}
-
-input[text] {
-  font-family: Gilroy-Bold, sans-serif;
 }
