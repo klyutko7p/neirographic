@@ -140,3 +140,17 @@ html {
   overflow: hidden;
   padding: 0 24px;
 }
+
+.budda {
+  background-image: url("../images/bg-section-budda.png");
+}
+
+@media (max-width: 768px) {
+  .budda {
+    background-image: url("../images/bg-section-budda-alt.png");
+  }
+}
+
+ul {
+  list-style-type: "–";
+}
